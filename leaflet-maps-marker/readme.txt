@@ -7,7 +7,7 @@ Author URI:        https://www.mapsmarker.com
 Author:            MapsMarker.com e.U.
 Requires at least: 3.3
 Requires PHP:      5.3
-Tested up to:      6.5.5
+Tested up to:      6.9
 Stable tag:        3.12.10
 License:           GPLv2
 
@@ -344,7 +344,7 @@ Synonyms: Map Maker - Maps Maker - mapmaker - mapsmaker
 
 = Trademark and copyright =
 MapsMarker &reg;
-Copyright 2011-2024, MapsMarker.com e.U., All Rights Reserved
+Copyright 2011-2025, MapsMarker.com e.U., All Rights Reserved
 
 == Upgrade Notice ==
 = 3.12.10 =

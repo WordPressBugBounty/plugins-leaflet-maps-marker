@@ -33,8 +33,8 @@ Version: 3.12.10
 Author: MapsMarker.com e.U.
 Author URI: https://www.mapsmarker.com
 Requires at least: 3.3
-Tested up to: 6.5.5
-Copyright 2011-2024 - MapsMarker.com e.U. - All rights reserved
+Tested up to: 6.9
+Copyright 2011-2025 - MapsMarker.com e.U. - All rights reserved
 MapsMarker &reg;
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License v2 as published by the Free Software Foundation. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You have received a copy of the full GNU General Public License along with this program (see file licence-gpl20.txt)
